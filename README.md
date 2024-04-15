@@ -25,8 +25,8 @@ The following Python libraries were used in this analysis project:
 7.	Folium
 8.	JSON
 # Folders
-Project Management - contains the project brief.
-02. Data - contains the dataframe used on this project. It contains both the raw data and the wrangled data used on this project.
-03. Scripts - contains all the generated Jupyter folders for this project.
-04. Analysis - contains visualizations generated for this project.
-05. Client - contains the final presentation.
+1. Project Management - contains the project brief.
+2. Data - contains the dataframe used on this project. It contains both the raw data and the wrangled data used on this project.
+3. Scripts - contains all the generated Jupyter folders for this project.
+4. Analysis - contains visualizations generated for this project.
+5. Client - contains the final presentation.
